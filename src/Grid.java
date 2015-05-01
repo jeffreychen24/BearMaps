@@ -13,7 +13,7 @@ public class Grid extends PApplet {
 	
 	public void setup() {
 		size(600, 600);
-		background(0);
+		background(0,0,120);
 	}
 	
 	public void draw() {
