@@ -25,7 +25,7 @@ public class Grid extends PApplet {
 	}
 	
 	public void attack() {
-		
+		System.out.println("Attack!");
 	}
 
 }
